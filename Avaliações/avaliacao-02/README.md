@@ -16,7 +16,7 @@ Crie exemplos de Relacionamento usando um Modelo Entidade Relacionamento envolve
 a) 1 : 1  
 b) 1 : N
 c) N : N
-Desenhe os diagramas dos relacionamentos acima usando o PlantUML.
+Desenhe os diagramas dos relacionamentos acima usando o PlantUML. Atributos devem compor a definição das entidades incluindo atributos que determinam a unicidade de cada registro. 
 
 Entregar como evidência da realização da atividade um PDF com as respostas dos conceitos acima citados e os três diagramas pedidos para exemplificar os relacionamentos.
 
