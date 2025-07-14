@@ -1,1 +1,1 @@
-
+Faremos hoje o uso de uma LLM para gerar um script Python. O código Python usará um banco de dados que executa em um container Docker executando no PlaywithDocker. Esse exercicio será transformado em uma avaliação valendo nota que faremos na proxima aula na 2afeira. Iniciem essa avaliação fazendo esse script que será modofocado na proxima aula.
