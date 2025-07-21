@@ -14,11 +14,12 @@ conexao = mysql.connector.connect(
 cursor = conexao.cursor()
 
 cursor.execute("CREATE TABLE IF NOT EXISTS Banana (nome VARCHAR(50))")
-cursor.execute("INSERT INTO Banana (nome) VALUES ('cayque1')")
+cursor.execute("INSERT INTO Banana (nome) VALUES ('cayque2')")
 cursor.execute("SELECT nome FROM Banana")
 
 for linha in cursor.fetchall():
     print(linha)
 
 cursor.close()
+conexao.commit()
 conexao.close()
